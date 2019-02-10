@@ -1,8 +1,5 @@
 <?php 
-    // include 'includes/newclass.inc.php';
-    // include 'includes/users.inc.php';
-    // $object = new Users($first, $last, $hairColor, $eyeColor);
-    // $object = new NewClass;
+
 ?>
 
 <!DOCTYPE html>
@@ -21,22 +18,5 @@
             <option value="div">Divide</option>
         </select>
         <button type="submit">Calculate</button>
-<!-- <?php 
-    
-
-    // echo $object->error."<br>";
-    // echo $object->__toString();
-    // echo NewClass::$static;
-    // $object->first = "Matt";
-    // $object->last = "Durham";
-    // $object->hairColor = "brown";
-    // $object->eyeColor = "brown";
-    // echo $object->printUser();
-
-    // $object->setUser("Holly", "Robertson", "brown", "green");
-    // echo $object->printUser();
-    // echo $object->first." ".$object->last." has ".$object->hairColor." hair and ".
-    // $object->eyeColor." eyes.";
-?>  -->
 </body>
 </html>
